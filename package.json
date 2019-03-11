@@ -1,0 +1,15 @@
+{
+  "name": "get-slack-conversations",
+  "version": "1.0.0",
+  "description": "Gets Slack Conversation History",
+  "main": "getSlackMessages.mjs",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
